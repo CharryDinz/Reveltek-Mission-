@@ -1,4 +1,6 @@
-# Reveltek-Mission #
+# Reveltek-Research #
+
+Reveltek Mission
 
 We believe in an equal workforce where minorities and underprivileged individuals can come  together  to  create  amazing  technology solutions  and  business  developments.  
 
